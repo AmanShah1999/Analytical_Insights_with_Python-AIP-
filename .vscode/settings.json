@@ -1,3 +1,4 @@
 {
-    "notebook.cellFocusIndicator": "border"
+    "notebook.cellFocusIndicator": "border",
+    "python.analysis.autoImportCompletions": true
 }
